@@ -1,6 +1,6 @@
 # Arc
 
-#Lab2
+#Lab3
 
-#simple assembler for a limited instruction of a CPU which can translate the assembly language to machine language.
+#The objective of this lab is to explore the impact of the spatial and temporal locality on the execution of a program. 
 
